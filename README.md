@@ -1,5 +1,5 @@
 # restart_apache
-A simple BASH script for Reloading Apache Configs
+A simple BASH script for Reloading Apache Configs ...
 
 ## Usage
 Clone the repository or download the latest release. 
